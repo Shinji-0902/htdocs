@@ -1,0 +1,4 @@
+<?
+$infoma = phpinfo();
+echo $infoma; 
+?>
